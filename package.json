@@ -2,7 +2,7 @@
   "name": "lunzi",
   "version": "0.0.1",
   "description": "这是一个 UI 框架",
-  "main": "index.js",
+  "main": "button.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/dongdong12138/lunzi#readme",
   "dependencies": {
     "vue": "^2.6.10"
+  },
+  "alias": {
+    "vue" : "./node_modules/vue/dist/vue.common.js"
   }
 }
