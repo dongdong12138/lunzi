@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/dongdong12138/lunzi.git"
   },
-  "keywords": ["Vue", "UI"],
+  "keywords": [
+    "Vue",
+    "UI"
+  ],
   "author": "BarryDong",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dongdong12138/lunzi/issues"
   },
-  "homepage": "https://github.com/dongdong12138/lunzi#readme"
+  "homepage": "https://github.com/dongdong12138/lunzi#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
