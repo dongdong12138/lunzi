@@ -1,7 +1,7 @@
 {
   "name": "lunzi",
-  "version": "1.0.0",
-  "description": "作者：BarryDong",
+  "version": "0.0.1",
+  "description": "这是一个 UI 框架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/dongdong12138/lunzi.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Vue", "UI"],
+  "author": "BarryDong",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dongdong12138/lunzi/issues"
   },
