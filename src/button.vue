@@ -50,7 +50,7 @@
       outline: none;
     }
     .loading {
-      animation: spin 1.5s linear infinite;
+      animation: spin 1.5s infinite linear;
     }
     > .icon {
       order: 1; margin-right: .2em;
