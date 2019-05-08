@@ -46,6 +46,11 @@
     <g-input value="王二麻子" readonly></g-input>
   </div>
   <div class="box">
+    <g-input v-model="message"></g-input>
+    <p>{{ message }}</p>
+    <button @click="message += 1">+1</button>
+  </div>
+  <div class="box">
     <g-input value="董" @change="inputChange"></g-input>
   </div>
   <div class="box">
