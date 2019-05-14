@@ -59,6 +59,7 @@
     ```
 
 ## 文档
+启动项目：npx parcel index.html --no-cache
 
 ## 提问
 
